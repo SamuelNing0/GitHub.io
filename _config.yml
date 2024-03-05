@@ -1,9 +1,1 @@
-theme: jekyll-theme-cayman
-title: Samuel's Resume
-author: Samuel Ning
-
-navbar-links:
-
-  Author's home: "https://github.com/SamuelNing0"
-
-avatar: "/assets/icon.jpeg"
+theme: jekyll-theme-midnight
