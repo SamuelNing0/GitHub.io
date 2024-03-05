@@ -1,15 +1,19 @@
+---
+layout: default
+title: Samuel Ning's Resume
+---
 # Samuel Ning
 ningyx@myumanitoba.ca     
 https://github.com/SamuelNing0
 
 ## Education
 **Bachelor of Science: Computer Science Major** 
-University of Manitoba – Winnipeg, MB
+University of Manitoba – Winnipeg, MB<br />
 *January 2020 -present*
 
 ## Experience
 **Junior Game Developer** 
-ABC Company - Winnipeg, MB 
+ABC Company - Winnipeg, MB <br />
 *Sep. 2023 – Dec. 2023*
 - Collected user feedback and improve product features, such as updating game rules and adjusting game mechanics.
 - Collaborated with design team to design new game levels.
@@ -18,7 +22,7 @@ ABC Company - Winnipeg, MB
 
 ## Projects
 **Online Chatroom Platform**
-University of Manitoba – Winnipeg, MB
+University of Manitoba – Winnipeg, MB<br />
 *January 2024 -Feburary 2024*
 - Developed server-client connections using gRPC protocols.
 - Built the frontend with Vue.js and backend with Python.
@@ -26,7 +30,7 @@ University of Manitoba – Winnipeg, MB
 - Worked under professor guidance.
   
 **Online Voting System**
-University of Manitoba – Winnipeg, MB
+University of Manitoba – Winnipeg, MB<br />
 *Feburary 2024 -March 2024*
 - Built a secure online voting system using Ethereum smart contracts.
 - Utilized blockchain to ensure voting tranparency and a clear voting history.
