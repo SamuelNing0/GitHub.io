@@ -4,7 +4,7 @@ title: Samuel Ning's Resume
 ---
 # Samuel Ning
 ningyx@myumanitoba.ca     
-https://github.com/SamuelNing0
+[https://github.com/SamuelNing0](https://github.com/SamuelNing0)
 
 ## Education
 **Bachelor of Science: Computer Science Major** <br />
