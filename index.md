@@ -7,12 +7,12 @@ ningyx@myumanitoba.ca
 https://github.com/SamuelNing0
 
 ## Education
-**Bachelor of Science: Computer Science Major** 
+**Bachelor of Science: Computer Science Major** <br />
 University of Manitoba – Winnipeg, MB<br />
 *January 2020 -present*
 
 ## Experience
-**Junior Game Developer** 
+**Junior Game Developer** <br />
 ABC Company - Winnipeg, MB <br />
 *Sep. 2023 – Dec. 2023*
 - Collected user feedback and improve product features, such as updating game rules and adjusting game mechanics.
@@ -21,7 +21,7 @@ ABC Company - Winnipeg, MB <br />
 - Intergrated facebook, twitch APIs for sharing games statistics on social media.
 
 ## Projects
-**Online Chatroom Platform**
+**Online Chatroom Platform**<br />
 University of Manitoba – Winnipeg, MB<br />
 *January 2024 -Feburary 2024*
 - Developed server-client connections using gRPC protocols.
@@ -29,7 +29,7 @@ University of Manitoba – Winnipeg, MB<br />
 - Set up a SQL database for data management.
 - Worked under professor guidance.
   
-**Online Voting System**
+**Online Voting System**<br />
 University of Manitoba – Winnipeg, MB<br />
 *Feburary 2024 -March 2024*
 - Built a secure online voting system using Ethereum smart contracts.
