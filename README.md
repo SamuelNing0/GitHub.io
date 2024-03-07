@@ -45,7 +45,6 @@ This README tutorial goes over the practical steps of hosting a markdown formatt
 4. Put "theme: jekyll-theme-cayman" in your "_config.yml" file (you can replace the "cayman" with the theme of your choice).![theme](assets/theme.png)
 5. Save the file "_config.yml".
 
-
 ### Step 5. Push your changes to github.
 > Catalog the diff: Etter recommends recording changes to a product. Github keep track of the changes for you and allow you to document the changes you make.
 1. Open Github Desktop. 
@@ -70,6 +69,14 @@ This README tutorial goes over the practical steps of hosting a markdown formatt
 7. Click the "Save" button. ![page](assets/page.gif)
 8. Naviage to "Action" tab where you can see your static website is being deployed.![action](assets/action.gif)
 9.  Click "pages build and deployment" and you can see your static website link once it is ready.![deploy](assets/deploy.gif)
+
+___
+# FAQs
+### Why is my resume not showing up?
+* You need to ensure your resume file is named as "index.md" for GitHub to use it as the homepage. 
+
+### Why is Markdown better than a word processor?
+* Markdown is better than a word processor because Markdown is more widely supported across platforms, it is portable and easy to learn. Moreover, Markdown is compatible with version control systems like Git, allowing  tracking changes. 
 
 ---
 ## More Resources{#resources}
