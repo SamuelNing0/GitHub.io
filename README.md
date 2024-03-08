@@ -8,7 +8,7 @@ This README tutorial goes over the practical steps of hosting a markdown formatt
 1. Make sure you have an **up-to-date resume properly formatted in markdown**. We need a markdown formatted resume to generate a static website. Markdown is a popular lightweight markup language to write your document. You can learn about markdown [here](https://www.markdowntutorial.com/) or check out [More Resources](#more-resources) if you are not familiar with markdown.
 2. You must have a **GitHub account**. If you don't have one, [create a github account here](https://github.com).
 3. Have a text editor installed on your computer (such as [Visual Studio code](https://code.visualstudio.com)).
-4. Have [GitHub Desktop]((https://desktop.github.com) ) installed on your computer. 
+4. Have [GitHub Desktop](https://desktop.github.com) installed on your computer. 
 ---
 ## Instructions
 ### Step 1: Create a personal repository on GitHub
